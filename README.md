@@ -9,7 +9,7 @@ The company aims to enhance its inventory management strategy across different p
 ## The Data
 The dataset used in this project includes warehouse management data with columns representing product categories, quantities, sales, suppliers, and warehouse locations. The dataset was obtained from the company's internal database.
 ### Data Folder Structure
-- `data/warehouse_management_data.csv`
+- warehouse_messy_data.csv`
 
 ## Key Points
 - I addressed missing values, ensured proper data types, and handled inconsistencies in the dataset to prepare it for analysis.
